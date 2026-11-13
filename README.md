@@ -40,7 +40,5 @@ The Python simulation evaluates communication performance using:
 - Performance graphs
 - Hardware circuit screenshot
 
-## Important Note
-The potentiometers represent simulated industrial sensors. The Arduino monitoring prototype and Python communication simulation are separate demonstrations and are not directly connected.
-
-This project is developed for academic purposes as a proof of concept.
+## Simulation
+Tinkercad Circuit Link: https://www.tinkercad.com/things/dVzvbHnRQcs-smart-manufacturing-communication-platform?sharecode=Bd37Ar00KIi5n5F2Zb9E9d0NZakSWe6Yx3Sh-QajqDM
